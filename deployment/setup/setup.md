@@ -19,7 +19,7 @@
 ```
     wget https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein -O /usr/local/bin/lein
     sudo chmod +x /usr/local/bin/lein
-    lein -verison
+    lein -version
 ```
 
 5. If you are running things for the first time run from inside project-dir setup.sh 
